@@ -15,7 +15,7 @@ import (
 
 const fileExt = ".sql"
 
-var foldersOrdered = []string{"collections", "vars", "environments", "files", "roles"}
+var foldersOrdered = []string{"tables", "procs", "funcs", "views", "triggers"}
 
 func main() {
 	checkFlag := flag.Bool("check", false, "Check for unexpected folder names")
