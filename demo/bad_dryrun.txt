@@ -1,0 +1,14 @@
+testdb1/views/schema_a/01_a_view.sql
+testdb1/funcs/schema_a/01_a_func.sql
+testdb1/procs/schema_a/01_a_proc.sql
+testdb1/views/schema_a/02_a_view.sql
+testdb1/funcs/schema_a/02_a_func.sql
+testdb1/procs/schema_a/02_a_proc.sql
+testdb1/views/schema_dude/01_dude_view.sql
+testdb1/procs/schema_dude/01_dude_proc.sql
+testdb1/funcs/schema_dude/01_dude_func.sql
+testdb1/procs/schema_dude/02_dude_proc.sql
+testdb1/procs/schema_dude/03_dude_proc.sql
+testdb1/BAD_FOLDER_1/schema_OOPS/03_dude_proc.sql
+testdb1/BAD_FOLDER_2/schema_OOPS/03_dude_proc.sql
+NON_EXISTING_DB/procs/schema_db2/03_dude_proc.sql

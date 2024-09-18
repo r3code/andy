@@ -1,0 +1,3 @@
+testdb1/views/schema_a/001_vi_myview1.good.sql
+testdb1/views/schema_a/002_vi_myview2.bad.sql
+testdb1/views/schema_a/003_vi_myview3.good.sql
