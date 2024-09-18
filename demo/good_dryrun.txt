@@ -1,0 +1,16 @@
+testdb1/views/schema_a/ZZ_a_view.sql
+testdb1/views/schema_a/03_a_view.sql
+testdb1/views/schema_a/01_a_view.sql
+testdb1/funcs/schema_a/02_a_func.sql
+testdb1/procs/schema_a/29_a_proc.sql
+testdb1/views/schema_a/02_a_view.sql
+testdb1/funcs/schema_a/01_a_func.sql
+testdb1/procs/schema_a/02_a_proc.sql
+testdb1/views/schema_dude/01_dude_view.sql
+testdb1/procs/schema_dude/52_dude_proc.sql
+testdb1/funcs/schema_dude/01_dude_func.sql
+testdb1/procs/schema_dude/02_dude_proc.sql
+testdb1/procs/schema_dude/03_dude_proc.sql
+testdb1/BAD_FOLDER_1/schema_OOPS/03_dude_proc.sql
+testdb1/BAD_FOLDER_2/schema_OOPS/03_dude_proc.sql
+testdb1/procs/schema_a/001_sp_i_have_dollar_name.sql

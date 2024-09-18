@@ -1,0 +1,21 @@
+databases:
+  - database: testdb1
+    host: localhost
+    port: 1433
+    user: SA
+    password: Passw0rd
+    connection_timeout_sec: 30
+    query_exec_timeout_seс: 15
+
+  - database: testdb2
+    host: localhost
+    port: 1433
+    user: TEST_USER
+    password: Passw0rd2
+    connection_timeout_sec: 29
+    query_exec_timeout_seс: 14
+
+changes_order:
+  - procs
+  - funcs
+  - views

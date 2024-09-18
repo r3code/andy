@@ -1,0 +1,4 @@
+testdb1/procs/schema_a/001_sp_i_have_dollar_name.sql
+testdb1/views/schema_a/001_vi_myview1.good.sql
+testdb1/views/schema_a/002_vi_myview2.good.sql
+testdb1/views/schema_a/003_vi_myview3.good.sql
